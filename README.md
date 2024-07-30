@@ -50,6 +50,6 @@ Outputs the accuracy of the model on the test set.
 
 Outputs the accuracy and RMSE of the model on the encrypted data.
 - **HE Accuracy**: 1.0
-- **RMSE**: 0.5970361989630348
+- **RMSE**: 0.564387940124446
 
 An accuracy of 1.0 indicates that there is no loss of insight during the encryption process.
