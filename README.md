@@ -8,7 +8,7 @@ This project demonstrates the use of homomorphic encryption techniques to secure
 
 ## Dataset
 
-The dataset used in this project is the UCI Credit Card Dataset. The dataset should be in the same directory as the notebook or the correct path to the dataset should be specified in the notebook.
+The dataset used in this project is the UCI Credit Card Dataset. 
 
 ## Functions
 
